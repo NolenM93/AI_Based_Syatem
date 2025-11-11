@@ -1,0 +1,10 @@
+# Weather Outfit Helper - Python Dependencies
+# This project uses only Python standard library
+# No external packages required
+
+# Python version: 3.6+
+# Standard library modules used:
+# - No external dependencies
+
+# For development/testing (optional):
+# pytest>=7.0.0  # Uncomment if you want to add pytest for testing
